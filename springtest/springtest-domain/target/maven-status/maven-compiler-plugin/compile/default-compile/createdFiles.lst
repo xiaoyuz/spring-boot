@@ -1,0 +1,3 @@
+org/springtest/domain/Student.class
+org/springtest/domain/Identifiable.class
+org/springtest/domain/IdentifiableHashBuilder.class
