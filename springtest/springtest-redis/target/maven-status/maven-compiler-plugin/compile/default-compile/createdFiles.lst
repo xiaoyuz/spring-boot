@@ -1,5 +1,0 @@
-org/springtest/redis/StudentRedisRepository.class
-org/springtest/redis/support/MessagePackSerializer.class
-org/springtest/redis/support/RedisConf.class
-org/springtest/redis/support/StudentByteRedisTemplate.class
-org/springtest/redis/support/ByteSerializationRedisSerializer.class
